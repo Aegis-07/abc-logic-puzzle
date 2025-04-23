@@ -34,3 +34,6 @@ The ABC Logic Puzzle, part of the broader category of mental games, doesn't requ
 
 ## License
 [![License](https://img.shields.io/badge/LICENSE-GPL--3.0-orange)](https://github.com/mustafadalga/abc-logiz-puzzle/blob/main/LICENSE)
+
+## Deploy
+https://abc-logic-puzzle.vercel.app/
